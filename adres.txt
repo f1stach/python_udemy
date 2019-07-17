@@ -1,0 +1,4 @@
+google.pl
+wp.pl
+onet.pl
+yourmama.com
